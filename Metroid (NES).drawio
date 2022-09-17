@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T22:58:48.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="lYk0y3oSZ9r6jBH17qK_" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T00:31:09.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="kIA9N1eyiK_JHzkJ6cnC" version="20.3.2" type="github">
   <diagram id="FSRKXp5SrvSa2qCFVjRG" name="Metroid">
-    <mxGraphModel dx="668" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="789" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -416,6 +416,15 @@
             <mxPoint x="840" y="580" as="sourcePoint" />
             <mxPoint x="880" y="580" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ePbxnIUEoKC8PJjRoNOl-8" value="?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="685" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePbxnIUEoKC8PJjRoNOl-9" value="?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="645" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePbxnIUEoKC8PJjRoNOl-10" value="?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="565" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
